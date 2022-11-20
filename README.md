@@ -1,2 +1,2 @@
-### Olá! Me chamo Henrique, sou academico de Engenharia Elétrica e apaixonado em automação, atualmente desenvolvo em Python, C, C++, JavaScript, Java e atualmente estudando conceitos de estruturas de dados, Inteligencia artificial e automação de sistemas. Meu objetivo academico e profissional é me tornar um expert em automação industrial, aplicando meus conhecimentos de Engenharia e Programação.👋
+### Olá! Me chamo Henrique, sou academico de Engenharia Elétrica, atualmente desenvolvo em Python, C, C++, JavaScript.👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geomchi-ctrl&show_icons=true&theme=darcula)
