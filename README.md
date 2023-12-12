@@ -16,6 +16,8 @@ I am currently working on an E-commerce that sells its own product and has the p
 [![](https://gtce.itsvg.in/api?username=@henriqueedaluz)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=geomchi-ctrl&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=geomchi-ctrl&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=geomchi-ctrl&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
