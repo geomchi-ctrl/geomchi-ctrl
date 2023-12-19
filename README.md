@@ -17,7 +17,3 @@ I am currently working on an E-commerce that sells its own product and has the p
 
 ---
 [![](https://visitcount.itsvg.in/api?id=geomchi-ctrl&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=geomchi-ctrl&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
