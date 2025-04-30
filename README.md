@@ -1,5 +1,4 @@
 # 💫 About Me:
-I am currently working on an E-commerce that sells its own product and has the proposal to protect animals the company name is BIYO.<br><br>Studying Electrical Engineering, currently in the 8th semester.<br><br>I already had experiences in areas such as technical support, team management and development in ML with Chatbots.
 
 
 ## 🌐 Socials:
